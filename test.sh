@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 MAX=0
 I=0
 D=0

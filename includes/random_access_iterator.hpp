@@ -22,6 +22,7 @@ namespace ft
         
         private:
             iterator_type _ptr;
+            
         public:
             random_access_iterator() : _ptr(nullptr) {}
             random_access_iterator(iterator_type p) : _ptr(p) {}

@@ -10,7 +10,6 @@ COMPILE			= 	g++
 FLAGS_STD		= 	-Wall -Wextra -Werror -std=c++98 -D STD_OPTION=1
 FLAGS_FT		= 	-Wall -Wextra -Werror -std=c++98 -D STD_OPTION=0
 
-
 all: $(PROGRAM_STD) $(PROGRAM_FT)
 
 $(PROGRAM_STD): $(OBJS)

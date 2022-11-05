@@ -154,6 +154,7 @@ namespace ft {
                 }
                 return (*this);
             }
+            
             /*-----------Allocator------------*/
             allocator_type get_allocator() const
             {

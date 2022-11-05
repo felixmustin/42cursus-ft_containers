@@ -19,6 +19,7 @@ namespace ft
             typedef typename iterator_traits<Iterator>::reference           reference;
         protected:
             iterator_type	_p;
+            
         public:
             reverse_iterator() : _p() {}
             explicit reverse_iterator (iterator_type p) : _p(p) {}

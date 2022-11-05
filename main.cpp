@@ -566,7 +566,6 @@
     }
 
 
-
     void map_constructor_1()
     {
         std::cout << "Constructor (1)\n";

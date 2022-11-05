@@ -21,6 +21,7 @@ namespace ft
 
         public:
             iterator_type _ptr;
+            
         public:
             map_iterator() : _ptr(nullptr) {}
             map_iterator(iterator_type p) : _ptr(p) {}
