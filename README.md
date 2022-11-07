@@ -1,5 +1,5 @@
 # ft_containers
-### Reimplementation of C++98 STD containers
+### Reimplementation of C++98 STL containers
 #### • vector
 #### • map
 #### • stack (AVLTree based)
