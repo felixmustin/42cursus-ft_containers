@@ -2,7 +2,7 @@
 ### Reimplementation of C++98 STL containers
 #### • vector
 #### • map
-#### • stack (AVLTree based)
+#### • stack (AVLTree data structure)
 ### and utils :
 ##### • reverse_iterator
 ##### • enable_if
